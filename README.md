@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ardhian Rizky</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
+- 🌍 Domicile in Indramayu
+
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [ardhianrizky.my.id](ardhianrizky.my.id)
+- 📝 I regularly write articles on [ardhianrizky.my.id](https://ardhianrizky.my.id/)
 
 - 📫 How to reach me **deruuz215@gmail.com**
 
