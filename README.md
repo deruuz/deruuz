@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ardhian Rizky<br>🌍 Indramayu<br>🌱 Learning JavaScript<br>📝 Writing at ardhianrizky.my.id<br>📫 Reach me at deruuz215@gmail.com
+Hi, I’m Ardhian Rizky<br>🌍 Indramayu<br>🌱 Learning JavaScript<br>📝 Writing at ardhianrizky.my.id<br>📫 Reach me at deruuz215@gmail.com <br> <br> QA Portofolio https://drive.google.com/drive/folders/1NOtBDxp-A-DMDSG6o6OHEz2CuakfGn9e?usp=drive_link <br> Certification https://drive.google.com/drive/folders/144UbIi5jUhLbjIMFM6J8rLdvYteQ8C_-?usp=drive_link
 
 
 ## 🌐 Socials:
